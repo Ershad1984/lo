@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(206, 198, 223);
+  }
+    }
+  .container{
+      width: 90%;
+      margin: 0 auto;
+      background-color: rgb(129, 13, 224);
+
+  }
+ #header{
+     width: 100%;
+     background-color: darkgreen;
+     float: left;
+ }
+ .logo{
+     width: 16.66%;
+     float: left;
+     background-color: darkgray;
+     }
+     .h{
+         width: 16.66%;
+         float: left;
+         background-color: darkgray;
+     }
+     .a{
+         width: 16.66%;
+         float: left;
+         background-color: darkgray;
+     }
+     .w{
+         width: 16.66%;
+         float: left;
+         background-color: darkgray;
+     }
+     .c{
+         width: 16.66%;
+         float: left;
+         background-color: darkgray;
+     }
+     .search-part{
+         width: 16.66%;
+         float: left;
+         background-color: darkgray;
+        
+     }
+     .container{
+         width: 90%;
+         margin: 0 auto;
+              
+     }
+     .middle{
+         width: 100%;
+         float: left;
+     }
+     .writing-part{
+         width: 50%;
+         float: left;
+         font-style: italic;
+         text-decoration: goldenrod;
+              }
+     .image-part{
+         width: 50%;
+         float: left;
+         background-color: gold;
+     }
+     .container{
+         width: 90%;
+         margin: 0 auto;
+         background: rgb(163, 9, 9);
+     }
+     .footer{
+         width: 100%;
+         float: left;
+         
+     }
+     .Merina{
+         width: 33.33%;
+         float: left;
+         background-color: indigo;
+         color: rgb(27, 223, 102);
+     }
+     .Ershad{
+         width: 33.33%;
+         float: left;
+         background-color: khaki;
+     }
+     .Alpoma{
+         width: 33.33%;
+         float: left;
+         background-color: rgb(15, 28, 216);
+         color: lawngreen;
+     }
+     .container{
+         width: 90%;
+         background-color: lightsalmon;
+         margin: 0 auto;
+     }
+     .Mo{
+         width: 100%;
+         float: left;
+     }
+     .L{
+         width: 60%;
+         float: left;
+     }
+     .s{
+         width: 40%;
+         float: right;
+     }
